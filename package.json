@@ -1,0 +1,17 @@
+{
+  "name": "ioof-challenge",
+  "version": "1.0.0",
+  "description": "ioof coding challenge - Date Difference",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/nodeApp.js",
+    "test": "babel-node spec/run.js"
+  },
+  "author": "Jeffrey Lau",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "jasmine": "^2.6.0"
+  }
+}
